@@ -1,4 +1,4 @@
-# Dice Roller
+# Dice Roller 🎲
 * The application:
     * A toy application that rolls a dice in a random order
 * The scope:
